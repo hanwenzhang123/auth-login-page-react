@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/auth-login-page-react/static/css/main.94308ed4.chunk.css",
+    "main.js": "/auth-login-page-react/static/js/main.a2508f4b.chunk.js",
+    "main.js.map": "/auth-login-page-react/static/js/main.a2508f4b.chunk.js.map",
+    "runtime-main.js": "/auth-login-page-react/static/js/runtime-main.b6751d9c.js",
+    "runtime-main.js.map": "/auth-login-page-react/static/js/runtime-main.b6751d9c.js.map",
+    "static/js/2.13d8852f.chunk.js": "/auth-login-page-react/static/js/2.13d8852f.chunk.js",
+    "static/js/2.13d8852f.chunk.js.map": "/auth-login-page-react/static/js/2.13d8852f.chunk.js.map",
+    "index.html": "/auth-login-page-react/index.html",
+    "static/css/main.94308ed4.chunk.css.map": "/auth-login-page-react/static/css/main.94308ed4.chunk.css.map",
+    "static/js/2.13d8852f.chunk.js.LICENSE.txt": "/auth-login-page-react/static/js/2.13d8852f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6751d9c.js",
+    "static/js/2.13d8852f.chunk.js",
+    "static/css/main.94308ed4.chunk.css",
+    "static/js/main.a2508f4b.chunk.js"
+  ]
+}
